@@ -4,11 +4,11 @@ Leveraged my understanding of how the CPU and RAM works in a computer system to 
 
 Program Details from tests:
 
-number of iterations: 10000
-duration milliseconds initialize beliefs 41.072
-duration milliseconds sense 56.133
-duration milliseconds blur 147.857
-duration milliseconds normalize 57.904
-duration milliseconds move 50.322
-Original total: 353.288
+Number of iterations: 10000,
+Duration milliseconds initialize beliefs: 41.072,
+Duration milliseconds sense: 56.133,
+Duration milliseconds blur: 147.857,
+Duration milliseconds normalize: 57.904,
+Duration milliseconds move: 50.322,
+Original total: 353.288,
 New Total: 51.232
